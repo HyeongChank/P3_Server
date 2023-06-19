@@ -1,0 +1,5 @@
+# Created at 2023-06-19T18:37:21.381
+Boot Manifest-JAR contains absolute paths in classpath 'D:\김형찬\1project_ai_tensorflow_collect\4todolist_nodejs\Todolist\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

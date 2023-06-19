@@ -1,0 +1,11 @@
+com\todolist\server\domain\Members.class
+com\todolist\server\service\TodoService.class
+com\todolist\server\domain\CorsConfig.class
+com\todolist\server\persistence\TodolistRepository.class
+com\todolist\server\domain\ImageLoad.class
+com\todolist\server\domain\Todolist.class
+com\todolist\server\persistence\MemberRepository.class
+com\todolist\server\persistence\ImageLoadRepository.class
+com\todolist\server\TodolistApplication.class
+com\todolist\server\controller\TodolistController.class
+com\todolist\server\domain\AppConfig.class
